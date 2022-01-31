@@ -16,6 +16,7 @@ I'm a software developer who love tech and innovation. Actually I work at <a hre
 	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+## Repositories 🛠️
 <div style="display: inline_block"><br>
 	<table>
 		<thead>
@@ -26,15 +27,15 @@ I'm a software developer who love tech and innovation. Actually I work at <a hre
 		</thead>
 		<tbody>
 			<tr>
-				<td>Api-do-Imdb</td>
+				<td><a href="https://github.com/ricmazz/Api-do-Imdb">Api-do-Imdb</a></td>
 				<td>API to provide add new users, administrators, movies and rate movies. / API para fornecer serviço de adicionar novos usuários, administradores, filmes e avaliar filmes. </td>
 			</tr>
 			<tr>
-				<td>Todo-List</td>
+				<td><a href="https://github.com/ricmazz/Todo-List">Todo-List</a></td>
 				<td>Simple todo list. Include and control your tasks. / Lista de tarefas para fazer, permite adicionar, completar e excluir tarefas.</td>
 			</tr>
 			<tr>
-				<td>SistemaVendas</td>
+				<td><a href="https://github.com/ricmazz/SistemaVendas">SistemaVendas</a></td>
 				<td>Sales recorder app, do you can add users, clients and sales. / Sistema para lançar vendas, permite cadastrar usuário, cliente e vendas.</td>
 			</tr>
 		</tbody>
