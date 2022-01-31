@@ -15,3 +15,28 @@ I'm a software developer who love tech and innovation. Actually I work at <a hre
 	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<div style="display: inline_block"><br>
+	<table>
+		<thead>
+			<tr>
+				<th>Name/Nome</th>
+				<th>Description/Descrição</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Api-do-Imdb</td>
+				<td>API to provide add new users, administrators, movies and rate movies. / API para fornecer serviço de adicionar novos usuários, administradores, filmes e avaliar filmes. </td>
+			</tr>
+			<tr>
+				<td>Todo-List</td>
+				<td>Simple todo list. Include and control your tasks. / Lista de tarefas para fazer, permite adicionar, completar e excluir tarefas.</td>
+			</tr>
+			<tr>
+				<td>SistemaVendas</td>
+				<td>Sales recorder app, do you can add users, clients and sales. / Sistema para lançar vendas, permite cadastrar usuário, cliente e vendas.</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
