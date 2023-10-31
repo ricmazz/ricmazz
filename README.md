@@ -27,10 +27,6 @@ I'm a software developer who love tech and innovation. Actually I work building 
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="https://github.com/ricmazz/Api-do-Imdb">Api-do-Imdb</a></td>
-				<td>API to provide add new users, administrators, movies and rate movies. / API para fornecer serviço de adicionar novos usuários, administradores, filmes e avaliar filmes. </td>
-			</tr>
-			<tr>
 				<td><a href="https://github.com/ricmazz/Todo-List">Todo-List</a></td>
 				<td>Simple todo list. Include and control your tasks. / Lista de tarefas para fazer, permite adicionar, completar e excluir tarefas.</td>
 			</tr>
