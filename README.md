@@ -36,7 +36,7 @@ I'm a software developer who love tech and innovation. Actually I work building 
 			</tr>
 			<tr>
 				<td><a href="https://github.com/ricmazz/BeeSimulator">BeeSimulator</a></td>
-				<td>BeeSimulator, it's a console app to solve Spelling Bee games (<a href="https://www.nytimes.com/puzzles/spelling-bee">The New York Times Speeling Bee</a>. / Console app para resolver jogos do estilo Spelling Bee (<a href="https://www.nytimes.com/puzzles/spelling-bee">The New York Times Speeling Bee</a>) ou Soletra (<a href="https://g1.globo.com/jogos/soletra">G1 - Soletra Online</a>).</td>
+				<td>BeeSimulator, it's a console app to solve Spelling Bee games (<a href="https://www.nytimes.com/puzzles/spelling-bee">The New York Times Spelling Bee</a>. / Console app para resolver jogos do estilo Spelling Bee (<a href="https://www.nytimes.com/puzzles/spelling-bee">The New York Times Spelling Bee</a>) ou Soletra (<a href="https://g1.globo.com/jogos/soletra">G1 - Soletra Online</a>).</td>
 			</tr>
 		</tbody>
 	</table>
