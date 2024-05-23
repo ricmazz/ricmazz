@@ -34,6 +34,10 @@ I'm a software developer who love tech and innovation. Actually I work building 
 				<td><a href="https://github.com/ricmazz/SistemaVendas">SistemaVendas</a></td>
 				<td>Sales recorder app, do you can add users, clients and sales. / Sistema para lançar vendas, permite cadastrar usuário, cliente e vendas.</td>
 			</tr>
+			<tr>
+				<td><a href="https://github.com/ricmazz/BeeSimulator">BeeSimulator</a></td>
+				<td>BeeSimulator, it's a console app to solve Spelling Bee games (<a href="https://www.nytimes.com/puzzles/spelling-bee">The New York Times Speeling Bee</a>. / Console app para resolver jogos do estilo Spelling Bee (<a href="https://www.nytimes.com/puzzles/spelling-bee">The New York Times Speeling Bee</a>) ou Soletra (<a href="https://g1.globo.com/jogos/soletra">G1 - Soletra Online</a>).</td>
+			</tr>
 		</tbody>
 	</table>
 </div>
