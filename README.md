@@ -27,8 +27,8 @@ I'm a software developer who love tech and innovation. Actually I work building 
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="https://github.com/ricmazz/Todo-List">Todo-List</a></td>
-				<td>Simple todo list. Include and control your tasks. / Lista de tarefas para fazer, permite adicionar, completar e excluir tarefas.</td>
+				<td><a href="[https://github.com/ricmazz/Todo-List](https://github.com/ricmazz/ConferenciaDistritalPython)">Todo-List</a></td>
+				<td>Simple event management for a Rotary District Conference. Manages attendance and registration lists, generates QR Codes for badges, and allows a person to scan the QR Code on the badge and confirm attendance at the event. / Controle simples de eventos para uma Conferência Distrital do Rotary. Gerencia lista de presentes e inscritos, gera QR Codes para crachás e permite que uma pessoa leia o QR Code do crachá e confirma a presença no evento.</td>
 			</tr>
 			<tr>
 				<td><a href="https://github.com/ricmazz/SistemaVendas">SistemaVendas</a></td>
