@@ -1,43 +1,106 @@
-### Hi, I'm Ricardo 👋🏻🧑🏻‍💻
+# 👋 Ricardo Mazzarioli
 
-<img src="https://raw.githubusercontent.com/ricmazz/ricmazz/main/gh-header-image-cropped.png" alt="banner that says Ricardo Mazzarioli - .Net Developer, Coding and building solutions for people, Brazil" align="right">
-I'm a software developer who love tech and innovation. Actually I work building  in .Net to provide solutions more human and helpfull, but some technologies I enjoy working too with include Angular, Typescript, Javascript, CSS, SQL (MSSQL).
+## 🇧🇷 Português
 
-## Look how contact me 🛰️ <img align="left" width="150" height="150" src="https://github.com/ricmazz/ricmazz/blob/main/ilustra-contato.png?raw=true"></a>
-<span>E-mail: <a href="mailto:ricardomazzarioli@outlook.com">ricardomazzarioli@outlook.com</a></span><br />
-<span>Linkedin: <a href="https://www.linkedin.com/in/ricardomazzarioli/">@ricardomazzarioli</a></span>
-	
-<div style="display: inline_block"><br>
-	<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-	<img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-	<img align="center" alt="SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-	<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+Desenvolvedor **Full Stack** com mais de **6 anos de experiência**, com forte atuação em **backend**, **APIs REST** e **sistemas de pagamento digital**.
 
-## Repositories 🛠️
-<div style="display: inline_block"><br>
-	<table>
-		<thead>
-			<tr>
-				<th>Name/Nome</th>
-				<th>Description/Descrição</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td><a href="https://github.com/ricmazz/ConferenciaDistritalPython">Conferência Distrital - Python/Flask</a></td>
-				<td>Simple event management for a Rotary District Conference. Manages attendance and registration lists, generates QR Codes for badges, and allows a person to scan the QR Code on the badge and confirm attendance at the event. / Controle simples de eventos para uma Conferência Distrital do Rotary. Gerencia lista de presentes e inscritos, gera QR Codes para crachás e permite que uma pessoa leia o QR Code do crachá e confirma a presença no evento.</td>
-			</tr>
-			<tr>
-				<td><a href="https://github.com/ricmazz/SistemaVendas">SistemaVendas</a></td>
-				<td>Sales recorder app, do you can add users, clients and sales. / Sistema para lançar vendas, permite cadastrar usuário, cliente e vendas.</td>
-			</tr>
-			<tr>
-				<td><a href="https://github.com/ricmazz/BeeSimulator">BeeSimulator</a></td>
-				<td>BeeSimulator, it's a console app to solve Spelling Bee games (<a href="https://www.nytimes.com/puzzles/spelling-bee">The New York Times Spelling Bee</a>. / Console app para resolver jogos do estilo Spelling Bee (<a href="https://www.nytimes.com/puzzles/spelling-bee">The New York Times Spelling Bee</a>) ou Soletra (<a href="https://g1.globo.com/jogos/soletra">G1 - Soletra Online</a>).</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
+Atuação prática em **plataformas críticas**, **monetização**, **Pix**, **integração de sistemas**, **infraestrutura Linux/VPS** e **arquitetura de aplicações web escaláveis**.
+
+📍 Araçatuba/SP • 🇧🇷  
+📧 ricardomazzarioli@outlook.com  
+
+---
+
+## 🇺🇸 English
+
+**Full Stack Developer** with over **6 years of experience**, focused on **backend development**, **REST APIs**, and **digital payment systems**.
+
+Hands-on experience with **mission-critical platforms**, **billing & monetization**, **Pix integrations**, **system integrations**, **Linux/VPS infrastructure**, and **scalable web application architecture**.
+
+📍 Araçatuba/SP • Brazil  
+📧 ricardomazzarioli@outlook.com  
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WebForms](https://img.shields.io/badge/WebForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=swagger&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases & Cache
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud, Infra & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux/VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 💡 Atuação Técnica | Technical Focus
+
+- Desenvolvimento de **APIs REST escaláveis**  
+- Scalable **REST API development**
+
+- Integração com **Pix (Banco do Brasil)** e **gateways de pagamento**  
+- **Pix** and **payment gateway integrations**
+
+- Sistemas de **assinatura, billing e monetização**  
+- **Subscription, billing, and monetization systems**
+
+- Arquitetura backend com **.NET Core**, **Node.js** e **Python**  
+- Backend architecture using **.NET Core**, **Node.js**, and **Python**
+
+- Uso de **Redis** para cache e performance  
+- **Redis** for caching and performance optimization
+
+- Modelagem e otimização de **SQL Server**, **PostgreSQL** e **MySQL**  
+- Data modeling and optimization with **SQL Server**, **PostgreSQL**, and **MySQL**
+
+- Manutenção de **sistemas legados** (WebForms, MVC)  
+- Legacy system maintenance (**WebForms**, **MVC**)
+
+- Deploy e gestão de aplicações em **Linux/VPS**  
+- Application deployment and management on **Linux/VPS**
+
+- Configuração de **Nginx**, SSL (Let's Encrypt) e `systemd`  
+- **Nginx**, SSL (Let's Encrypt), and `systemd` configuration
+
+- Arquitetura **SaaS**, multi-ambiente e versionamento  
+- **SaaS architecture**, multi-environment setup, and version control
+
+---
+
+## 🌎 Idiomas | Languages
+
+- 🇧🇷 Portuguese — Native  
+- 🇺🇸 English — Intermediate (B2)  
+- 🇪🇸 Spanish — Intermediate  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardomazzarioli&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomazzarioli&layout=compact)
+
+---
+
+## 📫 Contato | Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardomazzarioli@outlook.com)
