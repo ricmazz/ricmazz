@@ -95,8 +95,8 @@ Hands-on experience with **mission-critical platforms**, **billing & monetizatio
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardomazzarioli&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomazzarioli&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricmazz&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricmazz&layout=compact)
 
 ---
 
