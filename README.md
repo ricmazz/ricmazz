@@ -2,7 +2,7 @@
 
 ## 🇧🇷 Português
 
-Desenvolvedor **Full Stack** com mais de **6 anos de experiência**, com forte atuação em **backend**, **APIs REST** e **sistemas de pagamento digital**.
+Desenvolvedor **Full Stack** com mais de **7 anos de experiência**, com forte atuação em **backend**, **APIs REST** e **sistemas de pagamento digital**.
 
 Atuação prática em **plataformas críticas**, **monetização**, **Pix**, **integração de sistemas**, **infraestrutura Linux/VPS** e **arquitetura de aplicações web escaláveis**.
 
