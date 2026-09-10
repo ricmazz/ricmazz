@@ -1,99 +1,100 @@
-# 👋 Ricardo Mazzarioli
+<h1 align="center">Ricardo Mazzarioli</h1>
 
-## 🇧🇷 Português
+<p align="center">
+  <b>Backend Engineer</b> &nbsp;·&nbsp; .NET &nbsp;·&nbsp; Payments &amp; Fintech &nbsp;·&nbsp; Araçatuba, SP, Brazil
+</p>
 
-Desenvolvedor **Full Stack** com mais de **7 anos de experiência**, com forte atuação em **backend**, **APIs REST** e **sistemas de pagamento digital**.
-
-Atuação prática em **plataformas críticas**, **monetização**, **Pix**, **integração de sistemas**, **infraestrutura Linux/VPS** e **arquitetura de aplicações web escaláveis**.
-
-📍 Araçatuba/SP • 🇧🇷  
-📧 ricardomazzarioli@outlook.com  
-
----
-
-## 🇺🇸 English
-
-**Full Stack Developer** with over **6 years of experience**, focused on **backend development**, **REST APIs**, and **digital payment systems**.
-
-Hands-on experience with **mission-critical platforms**, **billing & monetization**, **Pix integrations**, **system integrations**, **Linux/VPS infrastructure**, and **scalable web application architecture**.
-
-📍 Araçatuba/SP • Brazil  
-📧 ricardomazzarioli@outlook.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/CHANGE-ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ricardomazzarioli@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Brazil%20%C2%B7%20UTC--3-009C3B?style=for-the-badge" alt="Location and timezone">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-### Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WebForms](https://img.shields.io/badge/WebForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=swagger&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I build the backend of systems that move money.
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+7+ years shipping production software, currently a **.NET Backend Developer at Encripta**, working on payment infrastructure: Pix, card gateways and subscription billing. I also run **Araçá Tech**, a software consultancy based in Araçatuba, SP.
 
-### Databases & Cache
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+Most of my day-to-day work lives in private repositories, so this profile is a partial view: side projects, experiments and tooling I build for community organizations.
 
-### Cloud, Infra & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux/VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Open to backend and fintech opportunities**, remote or hybrid.
+
+## What I work on
+
+- **Payments:** Pix integrations (Banco do Brasil), card gateways, transaction flows
+- **Billing &amp; monetization:** subscription plans, recurring charges, multi-tenant SaaS
+- **APIs:** scalable REST services in .NET Core, Node.js and Python
+- **Data:** modeling and query optimization on SQL Server, PostgreSQL and MySQL
+- **Performance:** Redis for caching and read-path optimization
+- **Infrastructure:** Linux/VPS, Nginx, multi-environment deployments
+
+## Tech stack
+
+**Backend**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Data &amp; cache**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infrastructure**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Selected projects
+
+| Project | Stack | What it does |
+| :--- | :--- | :--- |
+| [SistemaEventosRotary](https://github.com/ricmazz/SistemaEventosRotary) | Java, Spring Boot, PostgreSQL | Registration and management portal for Rotary trainings and events. Spring Security for access control, Flyway for schema migrations, Thymeleaf views |
+| [RoletaBrindes](https://github.com/ricmazz/RoletaBrindes) + [RoletaBrindesApp](https://github.com/ricmazz/RoletaBrindesApp) | .NET, PostgreSQL, TypeScript | Prize wheel built for a Rotaract campaign. API split into Domain, Application and Infrastructure layers, with a separate client app |
+| [presenca-mvp](https://github.com/ricmazz/presenca-mvp) | Python | Facial recognition MVP for automated attendance check-in |
+| [InternalNotifications](https://github.com/ricmazz/InternalNotifications) | C#, .NET | Internal notification service for distributing messages across an organization |
+| [YoutubeTranscripterToMarkdown](https://github.com/ricmazz/YoutubeTranscripterToMarkdown) | Python | CLI that downloads YouTube transcripts as formatted Markdown, with timestamp grouping and multi-language support |
+| [Api-do-Imdb](https://github.com/ricmazz/Api-do-Imdb) | C#, .NET, SQL Server | REST API for movie ratings, with user and admin roles |
+| [QrCodeGenerator](https://github.com/ricmazz/QrCodeGenerator) | C#, .NET | QR code generation utility |
+
+## Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricmazz&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricmazz&theme=github" alt="Ricardo Mazzarioli's GitHub summary" width="740">
+  </picture>
+</p>
+
+## Beyond code
+
+President of Rotary Club de Araçatuba Cruzeiro do Sul (2026 to 2027). A good share of the repos here started as tooling for volunteer projects: event registration, attendance, campaign apps.
+
+## Languages
+
+Portuguese (native) &nbsp;·&nbsp; English (B2) &nbsp;·&nbsp; Spanish (intermediate)
 
 ---
 
-## 💡 Atuação Técnica | Technical Focus
-
-- Desenvolvimento de **APIs REST escaláveis**  
-- Scalable **REST API development**
-
-- Integração com **Pix (Banco do Brasil)** e **gateways de pagamento**  
-- **Pix** and **payment gateway integrations**
-
-- Sistemas de **assinatura, billing e monetização**  
-- **Subscription, billing, and monetization systems**
-
-- Arquitetura backend com **.NET Core**, **Node.js** e **Python**  
-- Backend architecture using **.NET Core**, **Node.js**, and **Python**
-
-- Uso de **Redis** para cache e performance  
-- **Redis** for caching and performance optimization
-
-- Modelagem e otimização de **SQL Server**, **PostgreSQL** e **MySQL**  
-- Data modeling and optimization with **SQL Server**, **PostgreSQL**, and **MySQL**
-
-- Manutenção de **sistemas legados** (WebForms, MVC)  
-- Legacy system maintenance (**WebForms**, **MVC**)
-
-- Deploy e gestão de aplicações em **Linux/VPS**  
-- Application deployment and management on **Linux/VPS**
-
-- Configuração de **Nginx**, SSL (Let's Encrypt) e `systemd`  
-- **Nginx**, SSL (Let's Encrypt), and `systemd` configuration
-
-- Arquitetura **SaaS**, multi-ambiente e versionamento  
-- **SaaS architecture**, multi-environment setup, and version control
-
----
-
-## 🌎 Idiomas | Languages
-
-- 🇧🇷 Portuguese — Native  
-- 🇺🇸 English — Intermediate (B2)  
-- 🇪🇸 Spanish — Intermediate  
-
----
-
-## 📫 Contato | Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardomazzarioli@outlook.com)
+<p align="center">
+  <sub>Reach me at <a href="mailto:ricardomazzarioli@outlook.com">ricardomazzarioli@outlook.com</a></sub>
+</p>
