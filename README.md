@@ -20,7 +20,6 @@ I build the backend of systems that move money.
 
 Most of my day-to-day work lives in private repositories, so this profile is a partial view: side projects, experiments and tooling I build for community organizations.
 
-**Open to backend and fintech opportunities**, remote or hybrid.
 
 ## What I work on
 
