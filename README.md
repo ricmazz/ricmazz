@@ -23,7 +23,7 @@ Most of my day-to-day work lives in private repositories, so this profile is a p
 
 ## What I work on
 
-- **Payments:** Pix integrations (Banco do Brasil), card gateways, transaction flows
+- **Payments:** Pix integrations, Card Gateways and Transaction flows
 - **Billing &amp; monetization:** subscription plans, recurring charges, multi-tenant SaaS
 - **APIs:** scalable REST services in .NET Core, Node.js and Python
 - **Data:** modeling and query optimization on SQL Server, PostgreSQL and MySQL
